@@ -6,7 +6,7 @@
 echo "My first PHP script!";
 
 $txt = "PHP";
-echo "I love $txt!";
+echo "<br> I love $txt!";
 
 $x = 10;
 $y = 10.5;
